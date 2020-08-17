@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <span>Testing</span>
+        <span>Testing #2</span>
 
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
